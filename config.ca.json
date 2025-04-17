@@ -14,7 +14,7 @@
     "REDIS_URL": "redis://redis-service:6379",
     "API_GOSELL_BASE_URL": "https://ca-api.mediastep.ca",
     "ELASTICSEARCH_URL": "https://ca-es6.mediastep.ca",
-    "KAFKA_SERVERS": "10.10.0.35",
+    "KAFKA_SERVERS": "10.10.0.35:9092",
     "DB_POOL_SIZE":20,
     "DB_MAX_OVERFLOW":10,
     "DB_POOL_TIMEOUT":30,
